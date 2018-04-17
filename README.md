@@ -14,7 +14,7 @@ source ~/.mutt/dracula.muttrc
 
 ## Team
 
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/template/graphs/contributors).
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/mutt/graphs/contributors).
 
 [![Paul Townsend](https://avatars1.githubusercontent.com/u/453843?s=70)](https://github.com/paultownsend) |
 --- |

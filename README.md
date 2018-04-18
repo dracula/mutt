@@ -2,15 +2,11 @@
 
 > A dark theme for [Mutt](http://www.mutt.org/).
 
-![Screenshot](https://i.imgur.com/XZbANR1.png)
+![Screenshot](https://draculatheme.com/assets/img/screenshots/mutt.png)
 
 ## Install
 
-Move `dracula.muttrc` into `~/.mutt/` and add the following to your `muttrc` file:
-
-```
-source ~/.mutt/dracula.muttrc
-```
+All instructions can be found at [draculatheme.com/mutt](https://draculatheme.com/mutt).
 
 ## Team
 

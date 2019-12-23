@@ -2,7 +2,7 @@
 
 > A dark theme for [Mutt](http://www.mutt.org/).
 
-![Screenshot](https://draculatheme.com/assets/img/screenshots/mutt.png)
+![Screenshot](./screenshot.png)
 
 ## Install
 

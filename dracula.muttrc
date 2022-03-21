@@ -30,7 +30,7 @@ color header		color231	default		^Subject:.*
 # message body ------- foreground ---- background -----------------------------
 color attachment	color228	default
 color body		color231	default		[\-\.+_a-zA-Z0-9]+@[\-\.a-zA-Z0-9]+               # email addresses
-color body		color228	default		(https?|ftp)://[\-\.,/%~_:?&=\#a-zA-Z0-9]+        # URLs
+color body		color228	default		(https?|ftp)://[\-\.,/%~_:?&=\#a-zA-Z0-9\+]+      # URLs
 color body		color231	default		(^|[[:space:]])\\*[^[:space:]]+\\*([[:space:]]|$) # *bold* text
 color body		color231	default		(^|[[:space:]])_[^[:space:]]+_([[:space:]]|$)     # _underlined_ text
 color body		color231	default		(^|[[:space:]])/[^[:space:]]+/([[:space:]]|$)     # /italic/ text
